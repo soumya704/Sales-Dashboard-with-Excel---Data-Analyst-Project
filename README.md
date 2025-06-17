@@ -26,6 +26,15 @@ Project Overview:
 * Tools Used: Microsoft Excel
 * Skills Demonstrated: Data analysis, visualization, dashboard design.
 
+Connect with Me:
+Follow me on LinkedIn for more data analysis projects and insights:SOUMYA BHAGWANI
+
+Tags:
+#DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
+
+
+Explore the power of data analytics and unlock valuable insights with this Sales Dashboard project! Feel free to reach out for any questions or collaborations. Happy analyzing! 🚀
+
 
 
 
