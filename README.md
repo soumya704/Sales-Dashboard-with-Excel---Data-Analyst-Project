@@ -21,3 +21,17 @@ Getting Started:
 2. Open the Excel file Sales_Dashboard.xlsx to explore the dashboard.
 3. Dive into the Data folder to access the raw dataset.
    
+Project Overview:
+* Objective: To transform raw sales data into actionable insights.
+* Tools Used: Microsoft Excel
+* Skills Demonstrated: Data analysis, visualization, dashboard design.
+
+
+
+
+
+
+
+
+
+
