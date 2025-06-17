@@ -16,3 +16,8 @@ Features:
 * Explore profitability by product category
 
 
+Getting Started:
+1. Clone this repository to your local machine.
+2. Open the Excel file Sales_Dashboard.xlsx to explore the dashboard.
+3. Dive into the Data folder to access the raw dataset.
+   
