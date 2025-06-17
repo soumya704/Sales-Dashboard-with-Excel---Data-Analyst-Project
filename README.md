@@ -8,3 +8,11 @@ DASHBOARD
 
 ](url)
 
+Features:
+* Analyze sales trends over time
+* Visualize sales distribution by state
+* Identify top-performing customers
+* Dive into monthly sales analysis
+* Explore profitability by product category
+
+
