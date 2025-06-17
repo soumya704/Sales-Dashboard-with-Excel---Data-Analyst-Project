@@ -2,7 +2,7 @@
 
 Welcome to the Sales Dashboard project repository! This project focuses on analyzing sales data from a US-based company spanning 2014 to 2017. Through Excel, we've crafted an interactive dashboard that provides comprehensive insights into sales performance across different product categories and states.
 
-##DASHBOARD
+DASHBOARD
 
 ![Image](https://github.com/user-attachments/assets/7ac596e7-d1ea-4142-aea8-b56ad9b8a5d8)
 
@@ -10,7 +10,7 @@ Welcome to the Sales Dashboard project repository! This project focuses on analy
 
 
 
-##Features:
+Features:
 * Analyze sales trends over time
 * Visualize sales distribution by state
 * Identify top-performing customers
@@ -20,27 +20,27 @@ Welcome to the Sales Dashboard project repository! This project focuses on analy
 
 
 
-##Getting Started:
+Getting Started:
 1. Clone this repository to your local machine.
 2. Open the Excel file Sales_Dashboard.xlsx to explore the dashboard.
 3. Dive into the Data folder to access the raw dataset.
 
 
    
-##Project Overview:
+Project Overview:
 * Objective: To transform raw sales data into actionable insights.
 * Tools Used: Microsoft Excel
 * Skills Demonstrated: Data analysis, visualization, dashboard design.
 
 
 
-##Connect with Me:
+Connect with Me:
 Follow me on LinkedIn for more data analysis projects and insights:SOUMYA BHAGWANI[LinkedIn Profile](https://www.linkedin.com/in/soumya-bhagwani-550785227/)
 
 
 
 
-##Tags:
+Tags:
 #DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
 
 
